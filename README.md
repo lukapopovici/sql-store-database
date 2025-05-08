@@ -6,6 +6,12 @@ The goal of this project is to design and implement the database schema for a re
 
 Sellers can upload new products and modify prices of existing listings, while customers can place orders, confirm them, or cancel them.
 
+This has both scripts to manage and populate tables, and test constraints.
+
+Everything is meant to be run on Oracle Database.
+
+![image](https://github.com/user-attachments/assets/2898c67a-7893-41be-ab1a-13f5c02b5366)
+
 ---
 
 ## Tables
@@ -157,3 +163,7 @@ Sellers can upload new products and modify prices of existing listings, while cu
 ---
 
 This schema is designed for efficiency, data integrity, and to minimize redundancy using the principles of database normalization.
+
+# E-R diagram
+
+![image](https://github.com/user-attachments/assets/683a21db-c99c-481b-9d30-095025ee9461)
